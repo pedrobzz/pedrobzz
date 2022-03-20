@@ -1,5 +1,4 @@
-### Hi there 👋
-
+## Estatísticas WakaTime (Últimos 30 dias)
 <!--START_SECTION:waka-->
 
 ```text
