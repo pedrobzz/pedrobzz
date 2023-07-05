@@ -13,7 +13,7 @@ JavaScript   6 hrs 47 mins   ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-![svg](https://660f73fe6fef.ngrok.app/calendar2.svg)
+![svg](https://660f73fe6fef.ngrok.app/calendar2.svg?username="pedrobzz"&github="pedrobzz"&gitlab="pedrobzz")
 
 <!--
 **pedrobzz/pedrobzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
