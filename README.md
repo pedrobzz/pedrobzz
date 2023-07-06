@@ -13,8 +13,6 @@ JavaScript   6 hrs 48 mins   ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-![svg](https://express-server-production-76f1.up.railway.app/?username=pedrobzz)
-
 <!--
 **pedrobzz/pedrobzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
